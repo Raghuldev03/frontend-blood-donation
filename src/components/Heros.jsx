@@ -20,7 +20,7 @@ function Heros() {
           <h1 className="display-4 fw-bold mb-4">Save a Life, Donate Blood</h1>
           <p className="lead fs-4 mb-5">
             Your donation can make a life-saving difference. Join us in making
-            an impact life Saves.
+            an impact.
           </p>
           <a
             href="/Donar"
